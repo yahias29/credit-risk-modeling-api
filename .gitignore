@@ -1,0 +1,18 @@
+# Ignorer l'environnement virtuel
+venv/
+
+# Ignorer les caches Python
+__pycache__/
+*.pyc
+
+# Ignorer les données (on ne met jamais les données sur Git)
+*.csv
+*.xls
+data/
+
+# Ignorer les fichiers de modèles sauvegardés
+*.pkl
+*.joblib
+
+# Ignorer les fichiers temporaires de Jupyter
+.ipynb_checkpoints
