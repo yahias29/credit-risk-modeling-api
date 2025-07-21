@@ -1,3 +1,5 @@
+*.dockerignore
+
 # Ignorer l'environnement virtuel
 venv/
 
